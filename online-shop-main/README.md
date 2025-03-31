@@ -15,23 +15,3 @@ Product Details: Individual product pages with detailed information
 Shopping Cart: Add and remove products
 
 
-
-
-
-📚 Installation & Usage
-
-git clone https://github.com/mohprogramer/online-shop.git
-cd online-shop
-npm install
-npm start
-
-
-
-
-![Screenshot (630)](https://github.com/mohprogramer/online-shop/assets/92467753/26330c0a-4cce-446d-a198-d386679e8124)
-
-
-![Screenshot (632)](https://github.com/mohprogramer/online-shop/assets/92467753/3682e496-83f5-4e81-b416-551cc97cf638)
-
-
-![Screenshot (631)](https://github.com/mohprogramer/online-shop/assets/92467753/d30c157b-3db6-441c-bf07-df76f207eaca)
