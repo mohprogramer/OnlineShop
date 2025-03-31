@@ -6,6 +6,7 @@
 🛒 Online Shop
 
 
+
 ✨ Features
 
 Product Display: Clear presentation of all products
@@ -14,4 +15,4 @@ Product Details: Individual product pages with detailed information
 
 Shopping Cart: Add and remove products
 
-
+![Screenshot (20)](https://github.com/user-attachments/assets/a50e99f9-062f-4fc5-91f8-13bee719b07b)
