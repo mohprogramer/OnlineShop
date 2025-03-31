@@ -5,7 +5,6 @@
 
 🛒 Online Shop
 
-A modern online shop developed with React.js, React Router, Axios, and Styled Components.
 
 ✨ Features
 
@@ -15,19 +14,9 @@ Product Details: Individual product pages with detailed information
 
 Shopping Cart: Add and remove products
 
-Navigation: Smooth page transitions with React Router
 
-State Management: Utilizing Context API for product and cart management
 
-Dynamic Data: Fetching product data using Axios
 
-🚀 Technologies
-
-Frontend: React.js, React Router, Styled Components
-
-State Management: Context API
-
-Data Handling: Axios
 
 📚 Installation & Usage
 
